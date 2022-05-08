@@ -1,0 +1,10 @@
+{
+    "0" : "0_Anger"    ,
+    "1" : "1_Disgust"  ,
+    "2" : "2_Fear"     ,
+    "3" : "3_Happy"    ,
+
+    "6" : "4_Neutral"  ,
+    "4" : "5_Sad"      ,
+    "5" : "6_Surprise"
+}

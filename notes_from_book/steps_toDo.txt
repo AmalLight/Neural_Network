@@ -1,0 +1,12 @@
+train => close to > of 60%
+
+test2 +-
+
+train2 with 6 classes fixed by test2 +-
+example:
+
+     train2 doesn't work for neutral + => sad - , fear -
+     but it works for fear - => anger - , disgust -
+     
+     doesn't work for fear - => surprise +
+     but works for happy + => surprise + , neutral +

@@ -1,0 +1,30 @@
+
+    |
+ X1 | X2
+  a | b
+  c | d
+  e | f
+    |
+
+    |   |   |
+    | A | B | C
+----|---|---|----
+ I1 | 1 | 2 | 3
+----|---|---|----
+ I2 | 4 | 5 | 6
+    |   |   |
+
+3x2 * 2x3 = 3x3
+
+(a1+b4) (a2+b5) (a3+b6)
+(c1+d4) (c2+d5) (c3+d6)
+(e1+f4) (e2+f5) (e3+f6)
+
+
+1) I1 & I2 are Inputs.
+
+2) In the dia graph I wrote X1 * a,b because I was making one simple FFNN of hidden size 2.
+
+3) b is not used only from X2, Here a and b are totaly different for each of them.
+
+4) a,b == hidden size for W1, so = 2.
